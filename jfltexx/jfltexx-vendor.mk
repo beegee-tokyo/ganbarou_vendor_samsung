@@ -17,5 +17,6 @@
 # Pick up overlay for features that depend on non-open-source files
 
 $(call inherit-product, vendor/samsung/jfltexx/jfltexx-vendor-blobs.mk)
+
 $(call inherit-product, vendor/ganbarou/gapps/gapps-vendor-blobs.mk)
 
