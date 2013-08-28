@@ -1,5 +1,3 @@
-ganbarou_vendor_files
+Vendor for Ganbarou ROMs
 =====================
-
-Gapps for Ganbarou ROMs
 
