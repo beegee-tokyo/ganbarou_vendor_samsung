@@ -18,3 +18,5 @@
 DEVICE_PACKAGE_OVERLAYS := vendor/samsung/p4vzw/overlay
 
 $(call inherit-product, vendor/samsung/p4vzw/p4vzw-vendor-blobs.mk)
+
+$(call inherit-product, vendor/ganbarou/gapps/gapps-vendor-blobs.mk)
