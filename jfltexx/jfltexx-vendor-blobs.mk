@@ -16,6 +16,4 @@
 
 PRODUCT_COPY_FILES += \
         vendor/samsung/jfltexx/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
-        vendor/samsung/jfltexx/proprietary/lib/libril.so:system/lib/libril.so \
-        vendor/samsung/jfltexx/proprietary/app/Gallery2.apk:system/app/Gallery2.apk
-
+        vendor/samsung/jfltexx/proprietary/lib/libril.so:system/lib/libril.so

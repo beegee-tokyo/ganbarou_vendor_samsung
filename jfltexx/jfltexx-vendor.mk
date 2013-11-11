@@ -19,4 +19,3 @@
 $(call inherit-product, vendor/samsung/jfltexx/jfltexx-vendor-blobs.mk)
 
 $(call inherit-product, vendor/ganbarou/gapps/gapps-vendor-blobs.mk)
-
